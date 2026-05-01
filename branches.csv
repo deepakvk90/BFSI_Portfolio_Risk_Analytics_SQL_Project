@@ -1,0 +1,51 @@
+branch_id,branch_name,state,zone,branch_type,established_year,total_staff,is_active
+BR0001,Punjab Branch 001,Punjab,North,Urban,2009,23,1
+BR0002,Delhi Branch 002,Delhi,North,Rural,2011,18,1
+BR0003,Maharashtra Branch 003,Maharashtra,West,Urban,2005,28,1
+BR0004,Haryana Branch 004,Haryana,North,Urban,2009,26,1
+BR0005,Gujarat Branch 005,Gujarat,West,Rural,2010,31,1
+BR0006,Tamil Branch 006,Tamil Nadu,South,Rural,2010,17,1
+BR0007,Tamil Branch 007,Tamil Nadu,South,Semi-Urban,2011,18,1
+BR0008,Karnataka Branch 008,Karnataka,South,Rural,2011,28,1
+BR0009,Haryana Branch 009,Haryana,North,Semi-Urban,2005,29,1
+BR0010,Delhi Branch 010,Delhi,North,Urban,2013,35,1
+BR0011,Punjab Branch 011,Punjab,North,Urban,2010,22,1
+BR0012,Haryana Branch 012,Haryana,North,Rural,2005,29,1
+BR0013,Bihar Branch 013,Bihar,East,Urban,2015,40,1
+BR0014,Telangana Branch 014,Telangana,South,Semi-Urban,2011,22,1
+BR0015,Delhi Branch 015,Delhi,North,Urban,2004,41,1
+BR0016,Kerala Branch 016,Kerala,South,Urban,1995,42,1
+BR0017,Uttar Branch 017,Uttar Pradesh,North,Semi-Urban,2014,19,1
+BR0018,Maharashtra Branch 018,Maharashtra,West,Urban,2001,28,1
+BR0019,Maharashtra Branch 019,Maharashtra,West,Rural,2009,22,1
+BR0020,Delhi Branch 020,Delhi,North,Semi-Urban,2009,10,1
+BR0021,Tamil Branch 021,Tamil Nadu,South,Semi-Urban,2004,44,1
+BR0022,Tamil Branch 022,Tamil Nadu,South,Urban,2017,11,1
+BR0023,Telangana Branch 023,Telangana,South,Urban,2004,15,1
+BR0024,Kerala Branch 024,Kerala,South,Semi-Urban,2018,34,1
+BR0025,Maharashtra Branch 025,Maharashtra,West,Urban,2014,20,1
+BR0026,Telangana Branch 026,Telangana,South,Rural,1997,27,1
+BR0027,Tamil Branch 027,Tamil Nadu,South,Rural,2000,33,1
+BR0028,Haryana Branch 028,Haryana,North,Semi-Urban,2007,11,1
+BR0029,Punjab Branch 029,Punjab,North,Rural,1998,29,1
+BR0030,Haryana Branch 030,Haryana,North,Urban,2002,22,1
+BR0031,Telangana Branch 031,Telangana,South,Urban,2018,37,1
+BR0032,Uttar Branch 032,Uttar Pradesh,North,Rural,1999,16,1
+BR0033,Tamil Branch 033,Tamil Nadu,South,Urban,2018,14,1
+BR0034,West Branch 034,West Bengal,East,Rural,2013,18,1
+BR0035,Kerala Branch 035,Kerala,South,Semi-Urban,2010,36,1
+BR0036,Gujarat Branch 036,Gujarat,West,Semi-Urban,2003,12,1
+BR0037,Madhya Branch 037,Madhya Pradesh,Central,Semi-Urban,2014,26,1
+BR0038,Andhra Branch 038,Andhra Pradesh,South,Urban,2017,39,1
+BR0039,Maharashtra Branch 039,Maharashtra,West,Rural,2002,38,1
+BR0040,Madhya Branch 040,Madhya Pradesh,Central,Rural,1996,8,1
+BR0041,Madhya Branch 041,Madhya Pradesh,Central,Urban,1998,22,1
+BR0042,Karnataka Branch 042,Karnataka,South,Urban,2012,18,1
+BR0043,Haryana Branch 043,Haryana,North,Urban,1995,38,1
+BR0044,Uttar Branch 044,Uttar Pradesh,North,Rural,2017,21,1
+BR0045,Rajasthan Branch 045,Rajasthan,North,Urban,2017,13,1
+BR0046,Gujarat Branch 046,Gujarat,West,Rural,2012,29,1
+BR0047,Karnataka Branch 047,Karnataka,South,Rural,2003,11,1
+BR0048,Tamil Branch 048,Tamil Nadu,South,Urban,2005,24,1
+BR0049,Madhya Branch 049,Madhya Pradesh,Central,Urban,2013,24,1
+BR0050,Rajasthan Branch 050,Rajasthan,North,Semi-Urban,2010,29,1
